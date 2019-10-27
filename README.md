@@ -1,2 +1,3 @@
 # PythonEncryption
-Python encryption implementation
+Python encryption implementation.
+Feel free to contribute.
