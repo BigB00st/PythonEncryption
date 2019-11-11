@@ -5,7 +5,7 @@ from Crypto.Cipher import PKCS1_OAEP
 import sys
 
 if len(sys.argv) != 3:
-    print('usage: decrypt.py encrypted private_key')
+    print('usage: decrypt.py file private_key')
     exit(1)
 
 with open(sys.argv[2], "rb") as f:
